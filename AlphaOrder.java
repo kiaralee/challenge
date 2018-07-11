@@ -1,5 +1,7 @@
 import java.util.*;
 
+// DETERMINES IF STRING IS IN ALPHABETIC ORDER
+
 public class AlphaOrder {
 
 	public static void main(String[] args) {
